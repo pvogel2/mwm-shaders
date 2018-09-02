@@ -1,1 +1,3 @@
 # mwm-shaders
+
+For now this is just a playground for understanding, testing and developing shaders for webgl. Hopefully in the future ths ca evolve to some kind of reusable shader library, we will see..... 

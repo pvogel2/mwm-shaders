@@ -1,0 +1,21 @@
+{
+  "name": "mwm-shaders",
+  "version": "0.0.1",
+  "description": "collection if opengl shading tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "file:///C:\\\\Users\\\\worker\\\\Documents\\\\gitrepository\\\\mwm-shaders"
+  },
+  "author": "Peter Vogel",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4",
+    "material-components-web": "*",
+    "mwm-renderer": "F:/git/mwm-renderer",
+    "three": "^0.92.0"
+  }
+}
