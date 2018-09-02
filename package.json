@@ -15,7 +15,7 @@
   "dependencies": {
     "express": "4",
     "material-components-web": "*",
-    "mwm-renderer": "F:/git/mwm-renderer",
+    "mwm-renderer": "*",
     "three": "^0.92.0"
   }
 }
